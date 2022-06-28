@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    box-sizing: border-box;
+    font-family: Poppins;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+body{
+    background-image: url("bg-img5.jpg");
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0%;
+    padding: 0%;
+    overflow-x: hidden;
+}
+
+.navbar{
+    margin: 0%;
+    width: 100%;
+    padding: 20px;
+    height: 10%;
+    background-image: linear-gradient(to right, #810000, #EF8D32);
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.name{
+    font-weight: bold;
+    color: aliceblue;
+}
+
+.items{
+    list-style-type: none;
+    display: flex;
+
+}
+
+.itemn{
+    margin: 0px 5px;
+}
+
+.itemn:hover{
+    transition: font-weight 100ms transform 150ms;
+    font-weight: 200;
+    transform: translateY(-2px) translateX(-2px);
+    text-shadow: 0px 2px 8px rgb(109, 48, 48);
+    cursor: pointer;
+}
+
+.content{
+    background-color:rgba(198, 222, 227, 0.5);
+    height: 10%;
+    font-family:Cambria;
+    color:black;
+    font-size: 19px;
+    margin: 15px 10px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.port{
+    margin-top: 7%;
+    padding: 4%;
+}
+
+.academicsim{
+    height: 250px;
+    width: 20%;
+    margin: 2%;
+}
+
+.codingim{
+    height: 250px;
+    width: 20%;
+    margin: 2%;
+}
+
+.novelim{
+    height: 250px;
+    width: 20%;
+    margin: 2%;
+}
+
+.moreintim{
+    height: 250px;
+    width: 20%;
+    margin: 2%;
+}
+
+.academics{
+    font-size: 20px;
+    position: fixed;
+    bottom: 13%;
+    left: 11%;
+}
+
+.coding{
+    font-size: 20px;
+    position: fixed;
+    bottom: 13%;
+    left: 35%;
+}
+
+.novel{
+    font-size: 20px;
+    position: fixed;
+    bottom: 13%;
+    left: 55%;
+}
+
+.interests{
+    font-size: 20px;
+    position: fixed;
+    bottom: 13%;
+    left: 77%;
+}
+
+.academics:hover{
+    cursor: pointer;
+    transform: translateY(-2px) translateX(-2px);
+    box-shadow: 4px 4px 5px grey;
+    font-weight: 580;
+}
+
+.coding:hover{
+    cursor: pointer;
+    transform: translateY(-2px) translateX(-2px);
+    box-shadow: 4px 4px 5px grey;
+    font-weight: 580;
+}
+
+.novel:hover{
+    cursor: pointer;
+    transform: translateY(-2px) translateX(-2px);
+    box-shadow: 4px 4px 5px grey;
+    font-weight: 580;
+}
+
+.interests:hover{
+    cursor: pointer;
+    transform: translateY(-2px) translateX(-2px);
+    box-shadow: 4px 4px 5px grey;
+    font-weight: 580;
+}
