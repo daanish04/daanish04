@@ -8,8 +8,9 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🔭 I’m currently working on [**Synap**](https://github.com/daanish04/synap)  
-- 🌱 I’m currently learning **DevOps**  
+[//]: # "- 🔭 I’m recently working on [**Synap**](https://github.com/daanish04/synap)"
+- 💼 I have built 5+ full-stack projects including a [Financial Tracker](https://finly-rho-inky.vercel.app/), a [Multiplayer Game](https://wit-link.vercel.app/), and a [Knowledge Platform](https://synap-six.vercel.app/).
+- 🌱 I’m currently transitioning to the **.NET ecosystem**
 - 👨‍💻 Check out my [**Portfolio**](https://daanishqan.vercel.app/)  
 - 📫 Reach me at: **qanoongodaanish@gmail.com**  
 - 📄 View my [**Resume**](https://drive.google.com/file/d/13PH-wSXl-U-mvu7A1ijRg3EJFstwGK04/view)  
